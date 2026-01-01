@@ -3,6 +3,14 @@
 ![STATUS](https://img.shields.io/badge/STATUS-ACTIVE-GREEN)
 ![LICENSE-MIT](https://img.shields.io/badge/LICENSE-MIT-YELLOW)
 
+## 📸 EXECUTION SCREENSHOTS
+
+
+### ⚙️ ENGINE STATUS & INPUT MODE
+![Engine Running](screenshots/engine_running.png)
+
+### 🔍 SCAM ANALYSIS REPORT
+![Scam Detection Output](screenshots/scan_report.png)
 
 
 
