@@ -3,9 +3,13 @@
 ![STATUS](https://img.shields.io/badge/STATUS-ACTIVE-GREEN)
 ![LICENSE-MIT](https://img.shields.io/badge/LICENSE-MIT-YELLOW)
 
+## 📸 EXECUTION SCREENSHOTS
 
+### ⚙️ ENGINE STATUS & INPUT MODE
+![Engine Running](https://github.com/cyc3o/Scam-Detection-Engine/blob/main/engine_running.png)
 
-
+### 🔍 SCAM ANALYSIS REPORT
+![Scam Detection Output](https://github.com/cyc3o/Scam-Detection-Engine/blob/main/scan_report.png)
 
 
 CYBER THREAT INTELLIGENCE ENGINE
