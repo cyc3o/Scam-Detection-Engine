@@ -4,7 +4,13 @@
 ![LICENSE-MIT](https://img.shields.io/badge/LICENSE-MIT-YELLOW)
 
 
+## 📸 EXECUTION SCREENSHOTS
 
+### 🔍 SCAM ANALYSIS REPORT
+![Scam Detection Output](screenshots/scan_report.png)
+
+### ⚙️ ENGINE STATUS & INPUT MODE
+![Engine Running](screenshots/engine_running.png)
 
 CYBER THREAT INTELLIGENCE ENGINE
 OFFLINE SOC-GRADE SCAM DETECTION ENGINE THAT ANALYZES
